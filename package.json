@@ -1,7 +1,7 @@
 {
-  "name": "swagger-express-middleware",
-  "version": "1.0.0-alpha.12",
-  "description": "Swagger middleware and mocks for Express",
+  "name": "swagger-express-middleware-with-chance",
+  "version": "1.0.0",
+  "description": "Swagger middleware and use chancejs mocks for Express",
   "keywords": [
     "express",
     "swagger",
@@ -11,14 +11,13 @@
     "stub",
     "rest",
     "api",
-    "json"
+    "json",
+    "chance"
   ],
   "author": {
-    "name": "James Messinger",
-    "url": "http://jamesmessinger.com"
+    "name": "weihanqing",
   },
   "license": "MIT",
-  "homepage": "https://github.com/BigstickCarpet/swagger-express-middleware",
   "main": "lib/index.js",
   "scripts": {
     "lint": "jshint . --verbose && jscs . --verbose",
@@ -33,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BigstickCarpet/swagger-express-middleware.git"
+    "url": "https://github.com/whq731/swagger-express-middleware-with-chance.git"
   },
   "devDependencies": {
     "basic-auth": "^1.0.3",
@@ -59,6 +58,7 @@
     "multer": "^0.1.8",
     "ono": "^1.0.22",
     "swagger-methods": "^1.0.0",
+    "swagger-mock-parser": "^1.0.3",
     "swagger-parser": ">=3.0.0-alpha.8",
     "tmp": "0.0.27",
     "tv4": "^1.2.5",
