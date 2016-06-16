@@ -1,6 +1,6 @@
 {
   "name": "swagger-express-middleware-with-chance",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "Swagger middleware and use chancejs mocks for Express",
   "keywords": [
     "express",
@@ -15,7 +15,7 @@
     "chance"
   ],
   "author": {
-    "name": "weihanqing",
+    "name": "weihanqing"
   },
   "license": "MIT",
   "main": "lib/index.js",
