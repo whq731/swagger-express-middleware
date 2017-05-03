@@ -1,6 +1,6 @@
 {
   "name": "swagger-express-middleware-with-chance",
-  "version": "1.0.12",
+  "version": "1.1.0",
   "description": "Swagger middleware and use chancejs mocks for Express",
   "keywords": [
     "express",
@@ -58,8 +58,8 @@
     "multer": "^0.1.8",
     "ono": "^1.0.22",
     "swagger-methods": "^1.0.0",
-    "swagger-mock-parser": "~1.0",
-    "swagger-parser": ">=3.0.0-alpha.8",
+    "swagger-mock-parser": "~1.1",
+    "swagger-parser": "git://github.com/whq731/swagger-parser#releases\/4.0.0",
     "tmp": "0.0.27",
     "tv4": "^1.2.5",
     "type-is": "^1.6.8"
