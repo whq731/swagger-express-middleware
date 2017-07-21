@@ -1,6 +1,6 @@
 {
   "name": "swagger-express-middleware-with-chance",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Swagger middleware and use chancejs mocks for Express",
   "keywords": [
     "express",
